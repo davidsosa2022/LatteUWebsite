@@ -104,11 +104,14 @@ a:hover {
     font-family: nintendo;
     font-size: medium;
 
-    width: 1000px;
+    width: 1250px;
 
     position: absolute;
-
     top: 400px;
+    bottom: -600px;
+    left: 50%;
+    right: 0;
+    margin-left: -625px;
 
-    color:white
+    color:white;
 }
