@@ -1,2 +1,2 @@
 # LatteUWebsite
-The Website for LatteU
+The Website for the LatteU Project
