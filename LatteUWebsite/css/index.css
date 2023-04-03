@@ -97,3 +97,19 @@ a:hover {
     background-color: transparent;
     color: rgb(141, 101, 72);
 }
+
+.quickInfo {
+    border-color: aqua;
+    border-style: solid;
+
+    font-family: nintendo;
+    font-size: medium;
+
+    width: 1000px;
+
+    position: absolute;
+
+    top: 400px;
+
+    color:white
+}
